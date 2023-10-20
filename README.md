@@ -8,10 +8,12 @@
 </div>
 
 ## Download⬇️
-* <a href="src/ReadmeSrc/groo_min_demo.mp4" download>Download do vídeo demo do aplicativo biscoito do azar</a>
-* <a href="src/ReadmeSrc/groo_min_demo.mp4" download>Download a demo video off the Bad Luck Cookie App here</a>
+* <a href="src/ReadmeSrc/groo_min_demo.mp4" download>Download do vídeo demo do aplicativo GrooMin</a>
+* <a href="src/ReadmeSrc/groo_min_demo.mp4" download>Download a demo video off the GrooMin App here</a>
+
 ## Tecnologias (Technologies Used)💻
 * React Native (Expo-cli)
+* 
 ## Contato (Contact me)🔗
 * Email: gabriel.avilaa27@gmail.com
 * LinkedIn: https://www.linkedin.com/in/gabriel-avila-10a077218/
