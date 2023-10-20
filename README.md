@@ -13,7 +13,7 @@
 
 ## Tecnologias (Technologies Used)💻
 * React Native (Expo-cli)
-* 
+  
 ## Contato (Contact me)🔗
 * Email: gabriel.avilaa27@gmail.com
 * LinkedIn: https://www.linkedin.com/in/gabriel-avila-10a077218/
